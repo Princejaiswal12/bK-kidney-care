@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(231, 245, 220);
+   
+
+}
+
+.hero-section{
+    max-width: 100%;
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-right: 60px;
+    display: flex;
+    gap: 100px;
+}
